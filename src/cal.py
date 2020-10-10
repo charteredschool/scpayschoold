@@ -10,3 +10,5 @@ def hot(x,y)
 return hot;
 def square(x,y)
 return
+def divs(x,y)
+return
