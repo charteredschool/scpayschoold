@@ -6,3 +6,5 @@ def mul(x,y)
 return
 def sub(x,y)
 return
+def square(x,y)
+return
