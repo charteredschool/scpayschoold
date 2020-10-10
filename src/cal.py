@@ -8,3 +8,5 @@ def sub(x,y)
 return
 def hot(x,y)
 return hot;
+def square(x,y)
+return
