@@ -3,6 +3,6 @@ return
 def div(x,y)
 return
 def mul(x,y)
-return
+return x*y
 def sub(x,y)
 return
